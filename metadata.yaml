@@ -1,10 +1,13 @@
 _repo: Ein-Diwan_61327
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Bernhard, Emil
     gutenberg_agent_id: '51364'
     url: http://www.gutenberg.org/2009/agents/51364
+covers:
+- cover_type: archival
+  image_path: 61327-h/images/cover.jpg
 creator:
   author:
     agent_name: Judah, ha-Levi, active 12th century
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51363
     wikipedia: https://en.wikipedia.org/wiki/Judah_Halevi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61327#Ein-Diwan
 gutenberg_issued: '2020-02-06'
 gutenberg_type: Text
 identifiers:
