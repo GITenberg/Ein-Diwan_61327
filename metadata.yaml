@@ -1,0 +1,26 @@
+_repo: Ein-Diwan_61327
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Bernhard, Emil
+    gutenberg_agent_id: '51364'
+    url: http://www.gutenberg.org/2009/agents/51364
+creator:
+  author:
+    agent_name: Judah, ha-Levi, active 12th century
+    gutenberg_agent_id: '51363'
+    url: http://www.gutenberg.org/2009/agents/51363
+    wikipedia: https://en.wikipedia.org/wiki/Judah_Halevi
+description: ''
+gutenberg_issued: '2020-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61327'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Ein Diwan
+url: http://www.gutenberg.org/ebooks/61327
